@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #B80000;
+    color: white;
+    
+}
+
+h1{
+    font-size: 23px;
+    margin-left: 300px;
+    padding: 15px;
+    font-weight:lighter
+    
+}
+
+h1 a{
+    text-decoration: none;
+    color: white;
+}
+
+h1 a:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 5px;
+    
+}
+
+li a:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 30px;  
+}
+
+
+brasil{
+    font-size: 18px;
+}
+
+ul{
+    margin-left: 300px;
+    padding: 15px;
+}
+
+ul li {
+    display: inline;
+    margin-right: 16px;    
+}
+
+li a{
+    color:#FDFDFD;
+    font-weight: 400;
+    text-decoration: none;
+    font-family: ReithSans,Helvetica, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.active{
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 30px;  
+}
+
+.propaganda{
+    background-color: #F8F8F8;
+    width: 100%;
+    height: 100%;
+}
+
+main{    
+    margin-left: 430px;
+    margin-right: 455px;
+    margin-top: 100px;
+}
+
+.big{
+    width: 97%;
+    
+}
+
+.small{
+    width: 100%;
+}
+
+.caixafig{
+    width:50% ;
+    float: left;
+    
+}
+
+.caixatext{
+    width: 50%;
+    float: left;
+    
+}
+
+.wrap{
+    width: 100%;
+    
+    float: left;
+    
+}
+
+.coluO{
+    width: 25%;    
+    float: left;
+    padding: 15px 15px 10px 0px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+  
+    text-align: justify; 
+    font-size: 30px;  
+}
+
+h3{
+    font-family:'Times New Roman', Times, serif;
+    color: #6E6E73;
+    
+    text-align: left;
+    font-size: 18px ;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0 5px 0;
+    font-size: 15px;
+    text-align: justify;
+    color: #3F3F42;;
+}
+
+.diferente{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #6E6E73;
+}
+
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+
+h2 a:hover{
+    text-decoration: underline;
+}
+
+.videoeaudio{
+    float: left;
+}
